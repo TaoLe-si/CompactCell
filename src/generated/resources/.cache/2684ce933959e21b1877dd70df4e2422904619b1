@@ -1,0 +1,15 @@
+// 1.21.1	2025-10-07T15:46:01.9278298	vanilla/Recipes
+e3b5edd61e58c50ad38ebafcecb9e9a76897b3d7 data/compactcell/advancement/recipes/misc/bonder.json
+c01d45f554b9e94d9ed52c23dfeb2781488e11a3 data/compactcell/advancement/recipes/misc/cell_16k.json
+47569660871b4e3b27f4959edbe9ce0c739e0692 data/compactcell/advancement/recipes/misc/cell_1k.json
+0b3a2443a54eea3ecd28a83343c015ce779154f7 data/compactcell/advancement/recipes/misc/cell_256k.json
+8f5e1478844a37d2e45ab12da31aed35622fe1ca data/compactcell/advancement/recipes/misc/cell_4k.json
+906c861b3cae2e38ee42ff2f360fb5ad5cc5bfb5 data/compactcell/advancement/recipes/misc/cell_64k.json
+6c2856f5b512cb5eb29f339c83a7d5a1c4bad20f data/compactcell/advancement/recipes/misc/space_1k.json
+903f0ecb61e41b99c449f8e811271b4782e8d3aa data/compactcell/recipe/bonder.json
+c6b8747fc9838ce5a93635ab3da9965a4d9df860 data/compactcell/recipe/cell_16k.json
+5b2ec985ce678e99dfad94f479ef064dc26a75a8 data/compactcell/recipe/cell_1k.json
+69d77c71d9e577d7398ce3027f888f71ded817a9 data/compactcell/recipe/cell_256k.json
+b7446633d17209a2f82dfaea1cff7364896095c7 data/compactcell/recipe/cell_4k.json
+fc8a49c74c8ce55dff26b59a264b4a8b621755ff data/compactcell/recipe/cell_64k.json
+4c73dbac63b972bb9411f55434f24af31711f76a data/compactcell/recipe/space_1k.json
