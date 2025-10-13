@@ -1,7 +1,6 @@
-package com.tao.main.provider;
+package com.tao.main.providers;
 
 import appeng.api.AECapabilities;
-import appeng.api.networking.IInWorldGridNodeHost;
 import com.tao.main.CMBlockEntities;
 import net.neoforged.neoforge.capabilities.RegisterCapabilitiesEvent;
 

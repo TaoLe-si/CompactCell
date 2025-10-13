@@ -1,7 +1,7 @@
 package com.tao.main;
 
 import com.tao.main.events.*;
-import com.tao.main.provider.CMInitCapabilityProviders;
+import com.tao.main.providers.CMInitCapabilityProviders;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.common.NeoForge;

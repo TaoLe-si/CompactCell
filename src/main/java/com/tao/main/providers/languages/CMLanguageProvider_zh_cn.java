@@ -1,13 +1,12 @@
-package com.tao.main.provider;
+package com.tao.main.providers.languages;
 
-import com.tao.main.CMBlocks;
 import com.tao.main.CMItems;
 import com.tao.main.CompactCell;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.common.data.LanguageProvider;
 
-public class CMLanguageProvider extends LanguageProvider {
-    public CMLanguageProvider(PackOutput output) {
+public class CMLanguageProvider_zh_cn extends LanguageProvider {
+    public CMLanguageProvider_zh_cn(PackOutput output) {
         super(output, CompactCell.MODID, "zh_cn");
     }
 

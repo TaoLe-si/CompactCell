@@ -1,4 +1,4 @@
-package com.tao.main.provider;
+package com.tao.main.providers;
 
 import appeng.datagen.providers.tags.ConventionTags;
 import com.tao.main.CMItems;
@@ -9,7 +9,6 @@ import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Items;
-import net.neoforged.neoforge.common.Tags;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.concurrent.CompletableFuture;

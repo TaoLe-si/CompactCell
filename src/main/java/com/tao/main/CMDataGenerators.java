@@ -3,10 +3,11 @@ package com.tao.main;
 import appeng.datagen.providers.tags.BlockTagsProvider;
 import com.tao.main.dimension.CMInitBiomes;
 import com.tao.main.dimension.CMInitDimensionTypes;
-import com.tao.main.provider.*;
+import com.tao.main.providers.*;
+import com.tao.main.providers.languages.CMLanguageProvider_en_us;
+import com.tao.main.providers.languages.CMLanguageProvider_zh_cn;
 import net.minecraft.core.RegistrySetBuilder;
 import net.minecraft.core.registries.Registries;
-import net.minecraft.data.PackOutput;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.common.data.DatapackBuiltinEntriesProvider;
@@ -33,7 +34,8 @@ public class CMDataGenerators {
         pack.addProvider(packOutput -> new CMTagsProvider(output, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
 
         pack.addProvider(packOutput -> new CMRecipeProvider(output, lookupProvider));
-        pack.addProvider(PackOutput-> new CMLanguageProvider(output));
+        pack.addProvider(PackOutput-> new CMLanguageProvider_zh_cn(output));
+        pack.addProvider(PackOutput-> new CMLanguageProvider_en_us(output));
     }
 
     private static RegistrySetBuilder createDatapackEntriesBuilder() {

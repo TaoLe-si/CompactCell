@@ -1,9 +1,8 @@
-package com.tao.main.provider;
+package com.tao.main.providers;
 
 import com.tao.main.CMItems;
 import com.tao.main.CompactCell;
 import net.minecraft.data.PackOutput;
-import net.minecraft.world.item.BlockItem;
 import net.neoforged.neoforge.client.model.generators.ItemModelProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;
 
