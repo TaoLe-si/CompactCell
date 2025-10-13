@@ -1,0 +1,13 @@
+{
+  "block.compactcell.concrete_white_unbreakable": "White Concrete",
+  "block.compactcell.interface": "Super IO Interface",
+  "block.compactcell.smooth_stone_unbreakable": "Smooth Stone",
+  "item.compactcell.bonder": "Bonder",
+  "item.compactcell.cell_16k": "16k Space Cell",
+  "item.compactcell.cell_1k": "1k Space Cell",
+  "item.compactcell.cell_256k": "256k Space Cell",
+  "item.compactcell.cell_4k": "4k Space Cell",
+  "item.compactcell.cell_64k": "64k Space Cell",
+  "item.compactcell.space_1k": "Cell Viewer",
+  "space_cell_id": "Cell id: "
+}

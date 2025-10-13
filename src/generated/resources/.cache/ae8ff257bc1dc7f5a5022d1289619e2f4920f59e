@@ -1,0 +1,7 @@
+// 1.21.1	2025-10-13T17:57:05.770224	vanilla/Block States: compactcell
+1f42b836ad1984740f46b6650965168501849863 assets/compactcell/blockstates/concrete_white_unbreakable.json
+b0109f3c9aa110dce8865f20bc90c9929bcb5d90 assets/compactcell/blockstates/interface.json
+6083399076fb69678f6f43de264b56f8bc9c6750 assets/compactcell/blockstates/smooth_stone_unbreakable.json
+d7244fa40067661f47e551cc2af6d68a78324a06 assets/compactcell/models/block/concrete_unbreakable.json
+a12acf9c04ef3e2bc7eec5de58275cce0cb60771 assets/compactcell/models/block/interface.json
+385459a9e07d33b77a23ffd860a82a2a15c2c6e2 assets/compactcell/models/block/smooth_stone_unbreakable.json
